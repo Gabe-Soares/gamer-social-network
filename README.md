@@ -1,8 +1,7 @@
-<p style='text-align: right;'> [Ler em Português](/README-PT.md) </p>
-<div align="center">
-    ![GitHub language count](https://img.shields.io/github/languages/count/gabe-soares/gamer-social-network) ![GitHub top language](https://img.shields.io/github/languages/top/gabe-soares/gamer-social-network)    ![GitHub](https://img.shields.io/github/license/gabe-soares/gamer-social-network) ![GitHub repo size](https://img.shields.io/github/repo-size/gabe-soares/gamer-social-network) 
-    ![Discord](https://img.shields.io/discord/947265272476229712) ![GitHub issues](https://img.shields.io/github/issues-raw/gabe-soares/gamer-social-network) ![GitHub Repo stars](https://img.shields.io/github/stars/gabe-soares/gamer-social-network)
-</div>
+[PT-BR](/README-PT.md)
+
+![GitHub language count](https://img.shields.io/github/languages/count/gabe-soares/gamer-social-network) ![GitHub top language](https://img.shields.io/github/languages/top/gabe-soares/gamer-social-network)    ![GitHub](https://img.shields.io/github/license/gabe-soares/gamer-social-network) ![GitHub repo size](https://img.shields.io/github/repo-size/gabe-soares/gamer-social-network) 
+![Discord](https://img.shields.io/discord/947265272476229712) ![GitHub issues](https://img.shields.io/github/issues-raw/gabe-soares/gamer-social-network) ![GitHub Repo stars](https://img.shields.io/github/stars/gabe-soares/gamer-social-network)
 
 
 # Gamer Social Network | _0.0.1_
@@ -41,13 +40,13 @@ Project designed as a social network for gamers with the purpose of being a port
 ------------------------------------------------------------
 ### 📎 Contributors
 - Gabriel Soares A. - Full Project Contributor. 🐧
-- Luiz Gustavo MAzzaro - Full Project Contributor. 🤩
+- Luiz Gustavo Mazzaro - Full Project Contributor. 👽
 
 ------------------------------------------------------------
 As _someone_ said [somewhere](). 
 
 > citation
 
-<div align="center">
-**motto!**
-</div>
+<p align="center" style="font-weight: bold;">
+    motto
+</p>
