@@ -1,8 +1,9 @@
 [PT-BR](/README-PT.md)
 
+<center>
 ![GitHub language count](https://img.shields.io/github/languages/count/gabe-soares/gamer-social-network) ![GitHub top language](https://img.shields.io/github/languages/top/gabe-soares/gamer-social-network)    ![GitHub](https://img.shields.io/github/license/gabe-soares/gamer-social-network) ![GitHub repo size](https://img.shields.io/github/repo-size/gabe-soares/gamer-social-network) 
 ![Discord](https://img.shields.io/discord/947265272476229712) ![GitHub issues](https://img.shields.io/github/issues-raw/gabe-soares/gamer-social-network) ![GitHub Repo stars](https://img.shields.io/github/stars/gabe-soares/gamer-social-network)
-
+</center>
 
 # Gamer Social Network | _0.0.1_
 ## 👾 _An end to end Project_
@@ -32,7 +33,7 @@ Project designed as a social network for gamers with the purpose of being a port
 
 - [ ] [Solution design and requirements gathering](/DOCS/Requirements%20Gathering/DESIGN.md).
     - [x] [Document breadboards](/DOCS/Requirements%20Gathering/Breadboards/BREADBOARDING.md).
-    - [ ] [Document solucion requirements](/DOCS/Requirements%20Gathering/Requirements/REQUIREMENTS.md).
+    - [ ] [Document solution requirements](/DOCS/Requirements%20Gathering/Requirements/REQUIREMENTS.md).
     - [ ] [Document Entity Relationship Diagram](/DOCS/Requirements%20Gathering/Diagrams/DIAGRAMS.md).
     - [x] Update and set up initial README Markdown.
     - [ ] Define technologies we will use.
